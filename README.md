@@ -4,4 +4,4 @@
 
 ### 分数 : 全部输入正确，将会自动计算出所用时间。
 
-### 游戏地址 : https://count-puzzle.pages.dev/
+### 游戏地址 : https://count-puzzle.pages.dev
