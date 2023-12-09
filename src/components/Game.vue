@@ -93,7 +93,7 @@ export default {
         this.startTime = Date.now();
         this.interval = setInterval(() => {
           this.time = this.formatTime(Date.now() - this.startTime);
-        }, 100);
+        }, 0);
         this.btnText = 'Stop';
       } else {
         clearInterval(this.interval);
